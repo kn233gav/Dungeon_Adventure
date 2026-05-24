@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a5778e0e13fc44bcadd49b80f6153, type: 3}
+  m_Name: KnightData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterStatsSO
+  characterName: Knight
+  characterPrefab: {fileID: 6900903560987860539, guid: b9d28b0facab20b4792a8d234fada46a, type: 3}
+  maxHealth: 100
+  maxStamina: 100
+  moveSpeed: 6
+  sprintSpeed: 10
+  combatMoveSpeed: 4
+  attackDuration: 1.4
+  attackStaminaCost: 10
+  projectilePrefab: {fileID: 0}
+  projectileSpeed: 20
+  attackRange: 50

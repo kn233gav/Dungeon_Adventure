@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8715797577280714220
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1571042049591659991, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_Name
+      value: Skeleton_110 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.156223
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 21.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199628841774520173, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: animIdle
+      value: Skeleton_idle
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: animWalk
+      value: Skeleton_walk
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: xpReward
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: animDeath
+      value: Skeleton_death
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: maxHealth
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: animDamage
+      value: Skeleton_Damage
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: aggroRadius
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: attackRange
+      value: 1.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: potionPrefab
+      value: 
+      objectReference: {fileID: 7343658406895773586, guid: b306233163e7b5b4eb95e130f432326a, type: 3}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: potionDropChance
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: attackAnimations.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: 'attackAnimations.Array.data[0]'
+      value: Skeleton_Attack1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: 'attackAnimations.Array.data[1]'
+      value: Skeleton_Attack2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: 'attackAnimations.Array.data[2]'
+      value: Skeleton_Attack3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5715704445371121202, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_Radius
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5715704445371121202, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4084244471384842041, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1571042049591659991, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -6768874299464822905}
+    - targetCorrespondingSourceObject: {fileID: 1571042049591659991, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3210835477340254206}
+  m_SourcePrefab: {fileID: 100100000, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+--- !u!1 &7870548170682021947 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1571042049591659991, guid: 61b3e3801d56a3f429556c96ea2f07d6, type: 3}
+  m_PrefabInstance: {fileID: 8715797577280714220}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &-6768874299464822905
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7870548170682021947}
+  m_Material: {fileID: 13400000, guid: f7c2ce072b94f254ead47befaf789dd6, type: 2}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.6900288
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.86818224, z: 0}
+--- !u!114 &3210835477340254206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7870548170682021947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbd948b4bb196c84dab800ff1834c0bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StandardEnemy
+  maxHealth: 50
+  currentHealth: 0
+  aggroRadius: 15
+  attackRange: 2
+  damage: 10
+  attackCooldown: 1.5
+  xpReward: 100
+  animIdle: Skeleton_idle
+  animWalk: Skeleton_walk
+  animDeath: Skeleton_death
+  animDamage: Skeleton_Damage
+  animAttack: 
+  sfxFootstep: Step
+  sfxAttack: Attack
+  sfxDamage: Damage
+  sfxDeath: Death
+  attackAnimations:
+  - Skeleton_Attack1
+  - Skeleton_Attack2
+  - Skeleton_Attack3
+  potionDropChance: 0.25
+  potionPrefab: {fileID: 7343658406895773586, guid: b306233163e7b5b4eb95e130f432326a, type: 3}
+  dropHeightOffset: 0.5

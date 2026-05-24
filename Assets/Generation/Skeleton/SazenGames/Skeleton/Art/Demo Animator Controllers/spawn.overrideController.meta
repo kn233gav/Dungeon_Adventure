@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0d37e130e8355a448749a12a35e4e85
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306857
+  packageName: Stylized Low Poly Skeleton
+  packageVersion: 1.1
+  assetPath: Assets/SazenGames/Skeleton/Art/Demo Animator Controllers/spawn.overrideController
+  uploadId: 792234

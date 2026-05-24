@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca2447f9313b3484181f8a28064408bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306857
+  packageName: Stylized Low Poly Skeleton
+  packageVersion: 1.1
+  assetPath: Assets/SazenGames/Skeleton/Art/Demo Animator Controllers/scream.overrideController
+  uploadId: 792234

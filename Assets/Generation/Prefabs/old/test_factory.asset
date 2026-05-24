@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5eba0567554f94c9a8dc0d7e60bbc8, type: 3}
+  m_Name: test_factory
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonRoomFactory
+  startRoomPrefab: {fileID: 2534633987921045585, guid: fa37754132dea7249bda92cf7370974c, type: 3}
+  bossRoomPrefab: {fileID: 1869261270786452444, guid: f74c9601e8fe3f1429bdce4c25ede4a0, type: 3}
+  normalRoomPrefabs:
+  - {fileID: 1059887024895259463, guid: e1235570e28f56842ad892089d4aec32, type: 3}
+  corridorPrefabs:
+  - {fileID: 6317472711606230613, guid: 29bf4846f302e5b459416eb71df3083d, type: 3}
+  - {fileID: 3216566808371955851, guid: e883551610c71284d8dcc28099d27b3e, type: 3}
+  enemyPrefabs:
+  - {fileID: 7870548170682021947, guid: e2a03fd158d5a57488cae32e9c61f91d, type: 3}
+  bossEnemyPrefab: {fileID: 7833583261026438320, guid: da361f5718c94434ca7855b9111180bf, type: 3}
+  wallPrefab: {fileID: 0}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37a034c23e522ff4d9c8c931876f0c7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306857
+  packageName: Stylized Low Poly Skeleton
+  packageVersion: 1.1
+  assetPath: Assets/SazenGames/Skeleton/Art/Demo Animator Controllers/take damage.overrideController
+  uploadId: 792234

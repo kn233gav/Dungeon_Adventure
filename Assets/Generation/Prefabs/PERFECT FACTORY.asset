@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5eba0567554f94c9a8dc0d7e60bbc8, type: 3}
+  m_Name: PERFECT FACTORY
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonRoomFactory
+  startRoomPrefab: {fileID: 2534633987921045585, guid: fa37754132dea7249bda92cf7370974c, type: 3}
+  bossRoomPrefab: {fileID: 6162203607625085772, guid: ec977b613a11b1549bf4eb26a3a34d06, type: 3}
+  normalRoomPrefabs:
+  - {fileID: 195431755699904861, guid: b96151cb3271bbd47ba1c44bf17f195e, type: 3}
+  - {fileID: 2880933935333156530, guid: aedbf8d2a80c6304ebd251857d680f08, type: 3}
+  - {fileID: 6408719041095214228, guid: f3e251f6a3329214999131a4261305e4, type: 3}
+  - {fileID: 5483793444519568824, guid: 28f3955aac429cc49bb0a72898c38de0, type: 3}
+  - {fileID: 49858271497386482, guid: 6bc6e85c0e3647c49b00da1b5e029689, type: 3}
+  - {fileID: 6380552138586163041, guid: a8e66ea9474866544bd41f47991d0a09, type: 3}
+  - {fileID: 5602473356859500404, guid: 863d4622271d09c489774df686902840, type: 3}
+  - {fileID: 7644831588611056541, guid: 2865e6601da47de4b8862c9c4fbef1d6, type: 3}
+  - {fileID: 4240519237597642884, guid: ce5c444032231854fbe5f87e7736ca90, type: 3}
+  corridorPrefabs:
+  - {fileID: 48361160197973323, guid: 25ad4edc0499cac4bab18540cf4cdd42, type: 3}
+  - {fileID: 8963994228876393962, guid: a293400eeb76c004a854acf80dbd2b9b, type: 3}
+  - {fileID: 5893345234098901301, guid: c39d6d2fada23944b82c70e45ce0b35e, type: 3}
+  - {fileID: 8485687972376239116, guid: 9ca353a7f51345542aeb27fc5c520b5e, type: 3}
+  enemyPrefabs:
+  - {fileID: 7870548170682021947, guid: e2a03fd158d5a57488cae32e9c61f91d, type: 3}
+  - {fileID: 7152153855143740854, guid: efa3e2122ec774143ae42230b05ef7fb, type: 3}
+  - {fileID: 6356354323375676352, guid: 27dcebe49c154bd4f9ced03dd81b05ba, type: 3}
+  bossEnemyPrefab: {fileID: 7833583261026438320, guid: da361f5718c94434ca7855b9111180bf, type: 3}
+  wallPrefab: {fileID: 8976396979905514947, guid: 6f3df24251e1c1943a16eebd9612201a, type: 3}
